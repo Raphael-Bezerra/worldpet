@@ -1,0 +1,48 @@
+C:\Users\PC\Desktop\Projeto\WordPet\WordPet\bin\Debug\WordPet.exe.config
+C:\Users\PC\Desktop\Projeto\WordPet\WordPet\bin\Debug\WordPet.exe
+C:\Users\PC\Desktop\Projeto\WordPet\WordPet\bin\Debug\WordPet.pdb
+C:\Users\PC\Desktop\Projeto\WordPet\WordPet\obj\Debug\WordPet.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Projeto\WordPet\WordPet\obj\Debug\WordPet.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Desktop\Projeto\WordPet\WordPet\obj\Debug\WordPet.FormPrincipal.resources
+C:\Users\PC\Desktop\Projeto\WordPet\WordPet\obj\Debug\WordPet.Properties.Resources.resources
+C:\Users\PC\Desktop\Projeto\WordPet\WordPet\obj\Debug\WordPet.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Projeto\WordPet\WordPet\obj\Debug\WordPet.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Projeto\WordPet\WordPet\obj\Debug\WordPet.exe
+C:\Users\PC\Desktop\Projeto\WordPet\WordPet\obj\Debug\WordPet.pdb
+C:\Users\PC\Desktop\Projeto\WordPet\WordPet\obj\Debug\WordPet.frmCadCliente.resources
+C:\Users\PC\Desktop\Projeto\WordPet\WordPet\obj\Debug\WordPet.frmAnimais.resources
+C:\Users\PC\Desktop\Projeto\WordPet\WordPet\obj\Debug\WordPet.frmAgendas.resources
+C:\Users\PC\Desktop\Projeto\WordPet\WordPet\obj\Debug\WordPet.frmServicos.resources
+C:\Users\PC\Desktop\Projeto\WordPet\WordPet\obj\Debug\WordPet.frmRacas.resources
+C:\Users\PC\Desktop\Projeto\WorldPet\WordPet\bin\Debug\WordPet.exe.config
+C:\Users\PC\Desktop\Projeto\WorldPet\WordPet\bin\Debug\WordPet.exe
+C:\Users\PC\Desktop\Projeto\WorldPet\WordPet\bin\Debug\WordPet.pdb
+C:\Users\PC\Desktop\Projeto\WorldPet\WordPet\obj\Debug\WordPet.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Projeto\WorldPet\WordPet\obj\Debug\WordPet.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Desktop\Projeto\WorldPet\WordPet\obj\Debug\WordPet.frmAgendas.resources
+C:\Users\PC\Desktop\Projeto\WorldPet\WordPet\obj\Debug\WordPet.frmAnimais.resources
+C:\Users\PC\Desktop\Projeto\WorldPet\WordPet\obj\Debug\WordPet.frmCadCliente.resources
+C:\Users\PC\Desktop\Projeto\WorldPet\WordPet\obj\Debug\WordPet.FormPrincipal.resources
+C:\Users\PC\Desktop\Projeto\WorldPet\WordPet\obj\Debug\WordPet.frmRacas.resources
+C:\Users\PC\Desktop\Projeto\WorldPet\WordPet\obj\Debug\WordPet.frmServicos.resources
+C:\Users\PC\Desktop\Projeto\WorldPet\WordPet\obj\Debug\WordPet.Properties.Resources.resources
+C:\Users\PC\Desktop\Projeto\WorldPet\WordPet\obj\Debug\WordPet.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Projeto\WorldPet\WordPet\obj\Debug\WordPet.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Projeto\WorldPet\WordPet\obj\Debug\WordPet.exe
+C:\Users\PC\Desktop\Projeto\WorldPet\WordPet\obj\Debug\WordPet.pdb
+C:\Users\PC\Desktop\Aulas C#\Uninove 5º Semestre\Projeto Integrador WorldPet\WordPet\WordPet\bin\Debug\WordPet.exe.config
+C:\Users\PC\Desktop\Aulas C#\Uninove 5º Semestre\Projeto Integrador WorldPet\WordPet\WordPet\bin\Debug\WordPet.exe
+C:\Users\PC\Desktop\Aulas C#\Uninove 5º Semestre\Projeto Integrador WorldPet\WordPet\WordPet\bin\Debug\WordPet.pdb
+C:\Users\PC\Desktop\Aulas C#\Uninove 5º Semestre\Projeto Integrador WorldPet\WordPet\WordPet\obj\Debug\WordPet.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Aulas C#\Uninove 5º Semestre\Projeto Integrador WorldPet\WordPet\WordPet\obj\Debug\WordPet.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Desktop\Aulas C#\Uninove 5º Semestre\Projeto Integrador WorldPet\WordPet\WordPet\obj\Debug\WordPet.frmAgendas.resources
+C:\Users\PC\Desktop\Aulas C#\Uninove 5º Semestre\Projeto Integrador WorldPet\WordPet\WordPet\obj\Debug\WordPet.frmAnimais.resources
+C:\Users\PC\Desktop\Aulas C#\Uninove 5º Semestre\Projeto Integrador WorldPet\WordPet\WordPet\obj\Debug\WordPet.frmCadCliente.resources
+C:\Users\PC\Desktop\Aulas C#\Uninove 5º Semestre\Projeto Integrador WorldPet\WordPet\WordPet\obj\Debug\WordPet.FormPrincipal.resources
+C:\Users\PC\Desktop\Aulas C#\Uninove 5º Semestre\Projeto Integrador WorldPet\WordPet\WordPet\obj\Debug\WordPet.frmRacas.resources
+C:\Users\PC\Desktop\Aulas C#\Uninove 5º Semestre\Projeto Integrador WorldPet\WordPet\WordPet\obj\Debug\WordPet.frmServicos.resources
+C:\Users\PC\Desktop\Aulas C#\Uninove 5º Semestre\Projeto Integrador WorldPet\WordPet\WordPet\obj\Debug\WordPet.Properties.Resources.resources
+C:\Users\PC\Desktop\Aulas C#\Uninove 5º Semestre\Projeto Integrador WorldPet\WordPet\WordPet\obj\Debug\WordPet.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Aulas C#\Uninove 5º Semestre\Projeto Integrador WorldPet\WordPet\WordPet\obj\Debug\WordPet.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Aulas C#\Uninove 5º Semestre\Projeto Integrador WorldPet\WordPet\WordPet\obj\Debug\WordPet.exe
+C:\Users\PC\Desktop\Aulas C#\Uninove 5º Semestre\Projeto Integrador WorldPet\WordPet\WordPet\obj\Debug\WordPet.pdb
